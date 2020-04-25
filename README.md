@@ -28,3 +28,7 @@ You will need to install:
 - Subscribers use bikes for a short time period than customers.
 - There are no regular trends in a year. Subscriber usage seems that they are the least ride at the end of the year this situation maybe because of the Christmas holiday, they have a holiday and do not have to go to work. On the other hand, customer usage shows that the highest level in December for them.
 - Subscribers ride much shorter/quicker trips compared to customers on each day of the week. Both user types have an obvious increase in trip duration on Saturdays and Sundays over weekends. Subscribers usage seems to maintain a very consistent average duration Monday through Friday.
+
+#### Supporting Materials
+
+ I used 'output-toggle.tpl' file to hide code blocks in my slide. This is not mandatory, it is optional.
